@@ -1,5 +1,6 @@
 # YARA Rules
 [![Follow](https://img.shields.io/github/followers/umair9747?label=Follow&style=social)](https://github.com/umair9747/)
+[![Twitter](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2F0x9747%2F)](https://twitter.com/0x9747/)
 [![License](https://img.shields.io/badge/license-GPL--3.0-blue)](https://github.com/umair9747/yara-rules/blob/master/LICENSE)
 ![YARA LOGO](https://blog.malwarebytes.com/wp-content/uploads/2017/09/yaralogo.jpg)
 
