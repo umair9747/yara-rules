@@ -1,4 +1,4 @@
-# yara-rules
+# YARA Rules
 ![YARA LOGO](https://blog.malwarebytes.com/wp-content/uploads/2017/09/yaralogo.jpg)
 
 This repository contains a list of known YARA rules which researchers can use according to their needs.The repository is opensource and can be used by the end users as long as they follow the GNU GENERAL PUBLIC LICENSE V3.
