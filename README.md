@@ -9,9 +9,13 @@ YARA is a tool aimed at (but not limited to) helping malware researchers to iden
 ## New to YARA ?
 
 You can check these links if you are new to YARA and want to learn more about it:
+
 Writing Your Own YARA Rule: https://yara.readthedocs.io/en/v3.4.0/writingrules.html
+
 Running YARA From Command Line: https://yara.readthedocs.io/en/v3.4.0/commandline.html
+
 Using YARA For Malware Detection: https://us-cert.cisa.gov/sites/default/files/FactSheets/NCCIC%20ICS_FactSheet_YARA_S508C.pdf
+
 Detecting-Malicious-Files-With-YARA-Rules-As-They-Traverse-the-Network: https://i.blackhat.com/USA-19/Wednesday/us-19-Bernal-Detecting-Malicious-Files-With-YARA-Rules-As-They-Traverse-the-Network-wp.pdf
 
 ## Contribution
