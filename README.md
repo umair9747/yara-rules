@@ -1,6 +1,8 @@
 # YARA Rules
 [![Follow](https://img.shields.io/github/followers/umair9747?label=Follow&style=social)](https://github.com/umair9747/)
+[![License](https://img.shields.io/badge/license-GPL--3.0-blue)](https://github.com/umair9747/yara-rules/blob/master/LICENSE)
 ![YARA LOGO](https://blog.malwarebytes.com/wp-content/uploads/2017/09/yaralogo.jpg)
+
 
 This repository contains a list of known YARA rules which researchers can use according to their needs.The repository is opensource and can be used by the end users as long as they follow the GNU GENERAL PUBLIC LICENSE V3.
 
