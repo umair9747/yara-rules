@@ -22,6 +22,8 @@ Using YARA For Malware Detection: https://us-cert.cisa.gov/sites/default/files/F
 
 Detecting-Malicious-Files-With-YARA-Rules-As-They-Traverse-the-Network: https://i.blackhat.com/USA-19/Wednesday/us-19-Bernal-Detecting-Malicious-Files-With-YARA-Rules-As-They-Traverse-the-Network-wp.pdf
 
+Writing Effective YARA Signatures to Identify Malware:  https://insights.sei.cmu.edu/sei_blog/2012/11/writing-effective-yara-signatures-to-identify-malware.html
+
 ## Contribution
 I totally look forward for some contribution from other users to this repository.In order to contribute the user can create a pull request with the content they would like to add.
 
