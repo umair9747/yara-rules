@@ -1,4 +1,5 @@
 # YARA Rules
+
 [![Follow](https://img.shields.io/github/followers/umair9747?label=Follow&style=social)](https://github.com/umair9747/)
 [![Twitter](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2F0x9747%2F)](https://twitter.com/0x9747/)
 [![License](https://img.shields.io/badge/license-GPL--3.0-blue)](https://github.com/umair9747/yara-rules/blob/master/LICENSE)
@@ -23,6 +24,14 @@ Using YARA For Malware Detection: https://us-cert.cisa.gov/sites/default/files/F
 Detecting-Malicious-Files-With-YARA-Rules-As-They-Traverse-the-Network: https://i.blackhat.com/USA-19/Wednesday/us-19-Bernal-Detecting-Malicious-Files-With-YARA-Rules-As-They-Traverse-the-Network-wp.pdf
 
 Writing Effective YARA Signatures to Identify Malware:  https://insights.sei.cmu.edu/sei_blog/2012/11/writing-effective-yara-signatures-to-identify-malware.html
+
+## Useful Links :
+
+Signature-Based Detection With YARA : https://securityintelligence.com/signature-based-detection-with-yara/
+
+Latest YARA documentation : http://yara.readthedocs.io/en/latest/
+
+YARA: Simple and Effective Way of Dissecting Malware : http://resources.infosecinstitute.com/yara-simple-effective-way-dissecting-malware/
 
 ## Contribution
 I totally look forward for some contribution from other users to this repository.In order to contribute the user can create a pull request with the content they would like to add.
