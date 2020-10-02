@@ -13,7 +13,7 @@ YARA is a tool aimed at (but not limited to) helping malware researchers to iden
 
 ## New to YARA ?
 
-You can check these links if you are new to YARA and want to learn more about it:
+You can check these links if you are new to YARA and want to learn more about them:
 
 Writing Your Own YARA Rule: https://yara.readthedocs.io/en/v3.4.0/writingrules.html
 
